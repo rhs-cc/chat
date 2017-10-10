@@ -1,0 +1,378 @@
+<div class="page-content">
+  <div class="content-block-title">Welcome To My Awesome App</div>
+  <div class="content-block">
+    <div class="content-block-inner">
+      <div class="item-media"><img class="img-circle-big" src="profiles/dom.jpg"></div><b>John Doe</b>
+      <div class="card">
+        <div class="container">
+          <p>Hello how are you?</p>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-block-title">Welcome To My Awesome App</div>
+<div class="content-block">
+  <div class="content-block-inner">
+    <div class="item-media"><img class="img-circle-big" src="profiles/dom.jpg"></div><b>John Doe</b>
+    <div class="card">
+      <div class="container">
+        <p>Hello how are you?</p>
+      </div>
+    </div>
+
+
+  </div>
+</div>
+
+
+
+
+<div class="card the-fucking-toolbar">
+  <div class="toolbar messagebar messagebar-init">
+<div class="toolbar-inner">
+  <a href="#" class="link"><i class="material-icons md-18">send</i></a>
+  <textarea placeholder="Message"></textarea>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Top Navbar-->
+<div class="navbar">
+  <div class="navbar-inner">
+    <!-- We have home navbar without left link-->
+    <div class="left">
+    <a href="#" class="link icon-only open-panel"> <i class="icon icon-bars"></i></a>
+  </div>
+    <div class="center-sliding">Awesome App</div>
+
+  </div>
+</div>
+<!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes-->
+<div class="pages navbar-through toolbar-through">
+  <!-- Page, data-page contains page name-->
+  <div data-page="index" class="page">
+    <!-- Scrollable page content-->
+    <div class="page-content">
+
+      <div class="content-block-title">Jack Mawer</div>
+          <div class="list-block">
+            <ul>
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>Hello how are you?</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>I'm good. You?</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>I'm good but I dont know what to say as this is a demo.</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>I know :( How long do we have to do this?</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>We can finish when this fills a page</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>Ok then. What do you want to talk about?</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>Let's just say Blah, blah, blah,  a million times</p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+                <div class="item-media"><img class="img-circle" src="profiles/profile.jpg"></div>
+                <div class="item-inner">
+                  <div class="card">
+                    <div class="container">
+                      <p>blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, </p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="item-content">
+
+              </li>
+
+            </ul>
+          </div>
+
+    </div>
+  </div>
+</div>
+<!-- Bottom Toolbar-->
+
+<div class="toolbar">
+
+
+
+    <div class="card the-fucking-toolbar">
+      <div class="toolbar messagebar messagebar-init">
+    <div class="toolbar-inner">
+      <textarea placeholder="Message"></textarea>
+      <a href="#" class="link"><i class="material-icons md-18">send</i></a>
+    </div>
+  </div>
+  </div>
+
+
+
+
+
+
+
+
+<!--end of toolbar-->
+
+
+        </div><!--end of toolbar-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="content-block-title">Chats</div>
+            <div class="list-block">
+              <ul>
+                <li class="item-content">
+                  <div class="item-media"><img class="img-circle" src="profiles/jack.jpg"></div>
+                  <div class="item-inner">
+                    <a href="#chat1" class="item-link"><div class="item-title">Jack Mawer</div></a>
+                    <div class="item-after"><span class="badge">5</span></div>
+                  </div>
+                </li>
+
+                <li class="item-content">
+                  <div class="item-media"><img class="img-circle" src="profiles/dom.jpg"></div>
+                  <div class="item-inner">
+                    <a href="#chat2" class="item-link"><div class="item-title">Dom Massey</div></a>
+                    <div class="item-after"><span class="badge">3</span></div>
+                  </div>
+                </li>
+
+                <li class="item-content">
+                  <div class="item-media"><img class="img-circle" src="profiles/fin.png"></div>
+                  <div class="item-inner">
+                    <a href="#chat3" class="item-link"><div class="item-title">Fin Dowton</div></a>
+                    <div class="item-after"><span class="badge">2</span></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
